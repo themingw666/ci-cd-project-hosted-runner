@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  frontend:
+    container_name: reactjs-basic
+    image: "moikhoo23/reactjs-basic:latest"
+    restart: always
+    ports:
+      - 80:3000
