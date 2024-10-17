@@ -13,7 +13,7 @@ function App() {
         padding: "20px"
       }}
     >
-      <h1 style={{ color: "white" }}>Hello, I'm Xiao Ming</h1>
+      <h1 style={{ color: "white" }}>Hello, I'm Xiao Ming 666666</h1>
       <img src="https://picsum.photos/1024/768" alt="Random" />
     </div>
     <div className="App"> </div>
